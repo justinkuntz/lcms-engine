@@ -23,5 +23,8 @@ spec/dummy/public/assets/
 /.rakeTasks
 .DS_Store
 
-coverage
+/coverage
 /yarn-error.log
+.scannerwork
+
+rubocop-report.json

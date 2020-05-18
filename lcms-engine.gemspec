@@ -123,6 +123,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'seedbank', '~> 0.3'
   s.add_development_dependency 'selenium-webdriver', '~> 3.142', '>= 3.142.7'
   s.add_development_dependency 'shoulda-matchers', '~> 4.1'
+  s.add_development_dependency 'simplecov', '~> 0.18.5'
   s.add_development_dependency 'spring', '~> 2.1'
   s.add_development_dependency 'spring-commands-rspec', '~> 1'
   s.add_development_dependency 'traceroute', '~> 0.8'
